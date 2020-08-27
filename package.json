@@ -9,11 +9,13 @@
     "eslint-config-tesseract": "^0.0.2"
   },
   "dependencies": {
+    "commando": "0.0.2",
     "diff": "^4.0.2",
     "discord-auto-role": "^2.0.0",
     "discord-rich-presence": "0.0.8",
     "discord.js": "^12.2.0",
     "fetch": "^1.1.0",
+    "ffmpeg-static": "^4.2.7",
     "figlet": "^1.5.0",
     "glob": "^7.1.6",
     "humanize-duration": "^3.23.1",
@@ -23,7 +25,9 @@
     "nodeyourmeme": "^2.0.0",
     "path": "^0.12.7",
     "random-puppy": "^1.1.0",
+    "simple-youtube-api": "^5.2.1",
     "twemoji-parser": "^13.0.0",
-    "util": "^0.12.3"
+    "util": "^0.12.3",
+    "ytdl-core": "^3.2.2"
   }
 }
