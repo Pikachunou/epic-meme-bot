@@ -33,7 +33,7 @@
     "ytdl-core": "^3.2.2"
   },
   "scripts": {
-    "test": "node index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "description": ""
