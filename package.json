@@ -31,5 +31,10 @@
     "twemoji-parser": "^13.0.0",
     "util": "^0.12.3",
     "ytdl-core": "^3.2.2"
-  }
+  },
+  "scripts": {
+    "test": "node './index.js'"
+  },
+  "keywords": [],
+  "description": ""
 }
