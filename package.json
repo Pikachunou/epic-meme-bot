@@ -20,7 +20,7 @@
     "glob": "^7.1.6",
     "home": "^2.0.0",
     "humanize-duration": "^3.23.1",
-    "menudo": "<./src/menudocsclient.js>",
+    "menudo": "file:./src/menudocsclient.js",
     "moment": "^2.27.0",
     "ms": "^2.1.2",
     "node-fetch": "^2.6.0",
