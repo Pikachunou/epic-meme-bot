@@ -22,7 +22,7 @@
     "humanize-duration": "^3.23.1",
     "moment": "^2.27.0",
     "ms": "^2.1.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "nodeyourmeme": "^2.0.0",
     "path": "^0.12.7",
     "random-puppy": "^1.1.0",
